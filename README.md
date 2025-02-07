@@ -1,2 +1,2 @@
 # LeagueOfLegendsLog
-Log for league of legends games
+GUI to track statistics for league of legends games
